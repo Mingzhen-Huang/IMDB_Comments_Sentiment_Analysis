@@ -8,7 +8,10 @@ This project is implemented in python 3.6 and tensorflow 2.0. Follow these steps
 ```
 pip install -r requirements.txt
 ```
-
+* Download glove wordvectors:
+```
+./download_glove.sh
+```
 
 ## Data
 

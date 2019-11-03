@@ -36,13 +36,12 @@ Code dealing with reading the dataset, generating and managing vocabulary, index
 The main code to build models is contained the following files:
 
 - main_model.py
-- probing_model.py
 - sequence_to_vector.py
 
 There are two kinds of models in this code: main and probing.
 
 - The main model (`main_model.py`) is a simple classifier which can be instantiated using either DAN or GRU Sentence encoders defined (to be defined by you) in `sequence_to_vector.py`
-- The probing model (`probing_model`) is built on top of a pretrained main model. It takes frozen representations from nth layer of a pretrained main model and then fits a linear model using those representations.
+
 
 ## How to run:
 

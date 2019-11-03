@@ -1,5 +1,8 @@
 # IMDB Comments Sentiment Analysis
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
+
 ## Installation
 
 This project is implemented in python 3.6 and tensorflow 2.0. Follow these steps to setup your environment:

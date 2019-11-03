@@ -1,6 +1,6 @@
 # IMDB Comments Sentiment Analysis
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit-150x33.png?v=103)](https://opensource.org/licenses/mit-license.php)
+![](https://img.shields.io/badge/license-MIT-000000.svg)
 
 
 ## Installation
